@@ -9,7 +9,7 @@ resource "random_password" "password" {
   length = 18
 }
 resource "random_pet" "spaceliftNewer" {
-  length = 1
+  length = 19
 }
 
 provider "local" {}
